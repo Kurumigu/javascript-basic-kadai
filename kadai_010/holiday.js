@@ -3,7 +3,7 @@ var i = 0;
 var text ="";
 
 // for文の場合
-for (let i = 0; i <= holidays.length; i++) {
+for (let i = 0; i < holidays.length; i++) {
     console.log(holidays[i]);
 }
 
